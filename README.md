@@ -7,6 +7,8 @@ This Application will help to Extract metadata for a research paper. It is a sma
 ### GOOGLE SCHOLAR
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/58872746/225236045-45a1437a-abb3-4805-9558-f41091be520c.png">
 
+  Website URL: - *http://18.234.199.33:8501/* 
+
 
 
 
